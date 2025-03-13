@@ -90,8 +90,7 @@ MegaCityCabBookingSystem/<br>
 ### **🔹 Steps to Setup**
 #### 1️⃣ Clone the Repository:
 
-git clone https://github.com/YOUR_USERNAME/MegaCityCabBookingSystem.git
-cd MegaCityCabBookingSystem <br>
+git clone https://github.com/GayalanK/MegaCityCabBookingSystem
 <br>
 **2️⃣ Import Database:**
 Open MySQL Workbench or phpMyAdmin
